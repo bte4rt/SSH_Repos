@@ -1,4 +1,4 @@
 //Hier ist eine Datei, die in Github mit der SSH file Transfer getestet wird.
-//please change this line so that i can try the push from origin to master(pull) :)
+//please change this line so that i can try the push from origin to master(pull) hahaha
 // the first change in the remote repository
 *an example of a review comment: please do not use symbols like: ), : in your code but in comments*
